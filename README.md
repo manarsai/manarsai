@@ -1,16 +1,20 @@
-## Hi there 👋
+# Manar Saighi
+## 2026 B.Sc Computer Science Graduate, Grade: 2.1
 
-<!--
-**manarsai/manarsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+   C++ | C | Python
 
-Here are some ideas to get you started:
+### Technologies
+   SDL2 | CMake | Git | Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+   Game Development <br>
+   Software Engineering <br>
+   Systems Programming
+
+### Currently Studying
+   Game Development in C++
+
+### Contact
+   www.linkedin.com/in/manarsaighi/ <br><br>
+   manarsaighi2003@icloud.com
