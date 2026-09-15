@@ -13,7 +13,7 @@
    Systems Programming
 
 ### Currently Studying
-   Game Development in C++
+   Unreal Engine and Game Development in C++
 
 ### Contact
    www.linkedin.com/in/manarsaighi/ <br><br>
