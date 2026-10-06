@@ -12,9 +12,6 @@
    Software Engineering <br>
    Systems Programming
 
-### Currently Studying
-   Unreal Engine and Game Development in C++
-
 ### Contact
    www.linkedin.com/in/manarsaighi/ <br><br>
    manarsaighi2003@icloud.com
