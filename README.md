@@ -5,7 +5,7 @@
    C++ | C | Python
 
 ### Technologies
-   SDL2 | CMake | Git | Visual Studio
+   SDL2 | CMake | Visual Studio 2022
 
 ### Interests
    Game Development <br>
